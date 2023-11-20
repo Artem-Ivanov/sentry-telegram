@@ -12,7 +12,7 @@ setup(
     version=__version__,
     packages=['sentry_telegram_notification'],
     install_requires=[
-        'python-telegram-bot==13.7',
+        'python-telegram-bot==13.1',
     ],
     url='https://github.com/FarazFe/sentry-telegram',
     author='Faraz Fesharaki',
